@@ -1,0 +1,102 @@
+body{
+	font-family: 'Merriweather' sans-serif;
+}
+
+.navbar-default{
+	margin-bottom: 0;
+}
+
+.color{
+	border-radius: 5px;
+	background-color:#DA2E3D;
+}
+
+.enlace:hover{
+	background-color: #F4F0BB !important;
+}
+
+.enlace{
+	color: #fff !important;
+}
+
+.jumbotron{
+	background-color: rgba(0, 0, 0, 0.5);
+	height: 400px;
+}
+
+.fondo-imagen{
+	background-image: url(../img/creamy.jpg);
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+	
+}
+
+.titulouno{
+	color: #fff !important;
+	padding-top: 100px;
+}
+
+.titulo{
+	color: #fff;
+}
+
+.fondo-cream{
+	background-color: #F4F0BB;
+	
+}
+
+.titulodos{
+	color: #DA3053;
+	padding-top: 40px;
+}
+
+.titulo-dos{
+	color: #DA3053;
+	
+}
+
+.imagen-cream{
+	padding: 60px 0;
+}
+
+.fondo-letras{
+	background-color: #DA2E3D;
+	height: 300px;
+}
+
+.titulotres{
+	color: #fff;
+	padding-top: 50px;
+}
+
+.parrafotres{
+	color: #fff;
+}
+
+.fondo-cream-uno{
+	background-color: #F4F0BB;
+
+}
+
+.fa{
+	padding-top: 120px;
+	padding-left:150px;
+	font-size: 60px;
+	color: #DA2E3D;
+}
+
+.titulocuatro{
+	color: #DA2E3D;
+	padding-bottom:40px;
+
+}
+
+footer{
+	background-color:#DA2E3D; 
+}
+
+.parrafo-footer{
+	color: #fff;
+	padding: 30px 0;
+}
